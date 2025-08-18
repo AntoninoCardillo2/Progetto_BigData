@@ -1,0 +1,8 @@
+inquinante,descrizione,valore_limite,unità
+C6H6,Benzene - concentrazione media annuale,5,µg/m³
+CO_8h,Monossido di carbonio - massima concentrazione media mobile su 8 ore,10,mg/m³
+NO2,Biossido di azoto - concentrazione massima oraria,200,µg/m³
+O3,Ozono - concentrazione massima oraria (soglia informazione),180,µg/m³
+PM10,Polveri PM10 - concentrazione media giornaliera,50,µg/m³
+PM25,Polveri PM2.5 - concentrazione media annuale,25,µg/m³
+SO2,Biossido di zolfo - concentrazione massima oraria,350,µg/m³
